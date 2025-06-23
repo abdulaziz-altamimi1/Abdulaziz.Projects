@@ -1,1 +1,2 @@
 # Abdulaziz.Projects
+in this code I create a small data then i train a linear regression model to predict the salary based on experience, Education, GPA, Certification and Score then evaluate how accurate the predictions are by using MAE,MSE,RMSE and R^2 score
