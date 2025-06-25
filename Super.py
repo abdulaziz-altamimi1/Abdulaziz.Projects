@@ -6,8 +6,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn import preprocessing
 from sklearn import metrics
 
-print("pandas:",pd.__version__)
-print("numpy:",np.__version__)
 
 data ={
     "experience":[1,3,5,7,9,11,13,15,17,20,18,10],
@@ -47,6 +45,7 @@ real=np.array(y_test)
 print(real)
 
 plt.scatter(real,pred)
+plt.title("Prediction")
 plt.show()
 
 print("MAE: ",metrics.mean_absolute_error(y_test,pred))
