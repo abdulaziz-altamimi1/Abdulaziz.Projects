@@ -20,7 +20,7 @@ This task analyzes the **Hotel Booking Demand** dataset from Kaggle, The goal is
 
 ---
 
-## Visulizations
+## Visualizations
 1. The different reservation status between different hotels
 2. Top 10 Contries by number of reservations
 3. Top 10 Contries by number of reservation cancellations 
