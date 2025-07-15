@@ -6,7 +6,7 @@ This task involves data preprocessing steps, model training, evaluation, and vis
 
 ## Project Overview
 
-We tackle two core machine learning problem types:
+This task focuses on two types of supervised learning:
 
 1. **Regression**
    - Predict continuous outcomes such as home prices and weekly sales.  
@@ -38,7 +38,7 @@ Each workflow covers:
    - **Goal**: Classify whether a booking will be **canceled** or **not** based on guest, booking, and hotel features.  
 
 4. **Heart Disease**  
-   - **Goal**: Classify the presence of heart disease using clinical and demographic variables.  
+   - **Goal**: Classify the presence of heart disease using clinical variables.  
 
 5. **Flight Satisfaction**  
    - **Goal**: Classify passenger **satisfaction** based on flight and service attributes.  
