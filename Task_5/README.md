@@ -38,7 +38,6 @@ This task includes five deep learning projects using Keras and TensorFlow for bo
 
 - **Problem**: Predict customer satisfaction or not.
 - **Model Architecture**:
-  - Input: 17 features (e.g. food, entertainment, comfort)
   - 4 layers with ReLU activation with Dropout and Batch Normalization
   - Output: Sigmoid
 - **Loss Function**: Binary Crossentropy
