@@ -37,7 +37,7 @@ This task includes multiple computer vision projects built using deep learning a
 
 ---
 
-## 3. Digit Classification (MNIST)
+## 3. Digit Classification
 
 - **Task**: Classify handwritten digits (0–9)
 - **Model**: CNN
@@ -67,4 +67,4 @@ This task includes multiple computer vision projects built using deep learning a
 Each model demonstrates different applications of deep learning in computer vision:
 - Binary image classification
 - Multiclass digit classification
-- object detection
+- Object detection
