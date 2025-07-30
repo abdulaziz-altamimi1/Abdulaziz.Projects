@@ -67,4 +67,4 @@ This task includes multiple computer vision projects built using deep learning a
 Each model demonstrates different applications of deep learning in computer vision:
 - Binary image classification
 - Multiclass digit classification
-- Real-time object detection
+- object detection
