@@ -9,7 +9,7 @@ This task contains projects that demonstrate the application of Natural Language
 **Dataset:**  
 Amazon Fine Food Reviews  
 - Original dataset was filtered to remove neutral reviews (score = 3).  
-- Reviews with a score > 3 were labeled as **positive** (1), and ≤ 3 as **negative**
+- Reviews with a score > 3 were labeled as **positive** (1), and ≤ 3 as **negative** (0)
 
 **Text Preprocessing:**  
 - Lowercasing
@@ -70,7 +70,7 @@ Combined dataset of emails labeled as `SPAM` or `HAM`.
 
 **Sample Output:**
 - Input: `Please beleive me` → Output: `Please believe me`  
-- Input: `I want to paly mon` → Output: `I want to play money`
+- Input: `I want to paly mon` → Output: `I want to pay money`
 
 ---
 
@@ -86,7 +86,7 @@ Combined dataset of emails labeled as `SPAM` or `HAM`.
 
 **Sample Output:**
 - Input: `sherlock`  
-- Output: `sherlock holmes and the man who`
+- Output: `sherlock holmes was not very communicative`
 
 ---
 
